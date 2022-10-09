@@ -1,0 +1,9 @@
+.added-users-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 2rem;
+}
+.added-user {
+    background-color: rgb(0, 255, 21);
+}

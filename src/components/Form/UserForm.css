@@ -1,0 +1,32 @@
+.user-form {
+    background: rgb(151, 96, 199);
+    width: '40%';
+    height: 8rem;
+    margin-top: 2rem;
+    padding: 7rem;
+    border-radius: 5px;
+}
+
+.user-form-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.user-form-input {
+    display: block;
+    background-color: rgb(0, 255, 21);
+    margin-bottom: 1rem;
+    padding: 5px;
+}
+.user-form-button {
+    background-color: rgb(0, 255, 21);
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.user-form-button:hover {
+    opacity: 0.8;
+}
